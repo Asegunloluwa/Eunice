@@ -7,6 +7,8 @@ I'm an Artificial Intelligence (AI) researcher and educator passionate about usi
 - 🌾 **Food Price Forecasting** – Using time series models (LSTM, Prophet, Transformers) to support food security through better market insights.
 - 🍽️ **Dietary Recommendation Systems** – Designing multi-objective optimization-based systems (NSGA-II, NSGA-III) for personalized nutrition planning.
 - 🖼️ **Medical Image Classification** – Applying CNNs and cross-modal models (e.g., CLIP) for dermoscopic skin image analysis.
+- 💬 **LLMs for Mental Health Support** – Exploring language models for therapeutic response generation, emotion detection, and conversational empathy.
+- 🔍 **Explainable AI (XAI)** – Enhancing transparency and trust using SHAP, attention mechanisms, and model interpretability techniques.
 
 🛠️ **Tech Stack**:
 Python · Scikit-learn · PyTorch · TensorFlow · pandas · XGBoost · LightGBM · Power BI · SQL · Git

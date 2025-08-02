@@ -11,7 +11,6 @@ I'm an Artificial Intelligence (AI) researcher and educator passionate about usi
 🛠️ **Tech Stack**:
 Python · Scikit-learn · PyTorch · TensorFlow · pandas · XGBoost · LightGBM · Power BI · SQL · Git
 
-
 📚 **Background**:
 - Over 6 years of teaching experience in Computer Science
 - Active in AI research with publications and project supervision

@@ -10,6 +10,7 @@ I'm an Artificial Intelligence (AI) researcher and educator passionate about usi
 - 💬 **LLMs for Mental Health Support** – Exploring language models for therapeutic response generation, emotion detection, and conversational empathy.
 - 🔍 **Explainable AI (XAI)** – Enhancing transparency and trust using SHAP, attention mechanisms, and model interpretability techniques.
 
+
 🛠️ **Tech Stack**:
 Python · Scikit-learn · PyTorch · TensorFlow · pandas · XGBoost · LightGBM · Power BI · SQL · Git
 
